@@ -1,4 +1,3 @@
-!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
 This project, participating in the Mozilla Festival, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). These guidelines cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making the MozFest possible.
@@ -31,4 +30,3 @@ Email: leadopen@mozillafoundation.org
 ## Working in the Open
 
 Because working open is one of our core values, #mozsprint program planning is done in the open on Github (check out our repo [here](https://github.com/mozilla/global-sprint)). We hope participants will benefit from this culture of transparency and collaboration during the Festival, and will continue to work with an open ethos in their projects after #mozsprint. Learn more about [how we work open at Mozilla](https://wiki.mozilla.org/Working_open).
-<!--- END MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
