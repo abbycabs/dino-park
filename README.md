@@ -7,7 +7,7 @@ This project aims to design and build the world's first open dinosaur park. Ther
 
 We are looking for feedback on the early stages of park planning. Anyone who likes dinosaurs, parks, or picnics can help-- check out our [Issues](https://github.com/acabunoc/dino-park/issues) tab for tasks to work on. 
 
-Want to chat with us during Mozilla's Global Sprint? Head over to the Global Sprint Gitter Chat-- you can ping @acabunoc or @zee-moz. Or leave a comment on any issue and we'll reply as soon as we can.
+Want to chat with us during Mozilla's Global Sprint? Head over to the [Global Sprint Gitter Chat](https://gitter.im/mozilla/global-sprint)-- you can ping @acabunoc or @zee-moz. Or leave a comment on any issue and we'll reply as soon as we can.
 
 This project aheres to [Mozilla's Participation Guidelines](https://github.com/acabunoc/dino-park/blob/master/CODE_OF_CONDUCT.md), please check them out!
 
