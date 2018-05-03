@@ -2,9 +2,7 @@
 
 Thank you for your interest in contributing to Dino Park :tada:! 
 
-This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
+This documents is a set of guidelines for contributing to Dino Park on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -18,7 +16,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at [our issues](https://github.com/acabunoc/dino-park/issues) to get started!
+Take a look at [our issues](https://github.com/acabunoc/dino-park/issues) to get started! You can contribute to many of our issues simply by commenting or uploading a file, or clicking out to a document on another platform and editing there. For changes to files in the repo, see below. 
 
 ## How to submit changes
 
@@ -32,4 +30,4 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/acabunoc/dino-park/issues)!
+Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/acabunoc/dino-park/issues)! Anyone can add a new issue. 
