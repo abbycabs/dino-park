@@ -1,5 +1,5 @@
 # dino-park
-a playground project forlearning github at #mozsprint 2018
+a playground project for learning github at #mozsprint 2018
 
 Hello! Welcome to the Dino Park Project, a **fake** open project to help new Mozsprint participants learn how to contribute using collaboration tools. 
 
